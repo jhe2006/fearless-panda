@@ -1,6 +1,6 @@
 **Introduction**
 
-We bought our primary home in November 2007 in San Jose. The next year the housing crisis spread cross US cities and many people’s homes went to foreclosure. Our home value also went down 30% and we felt buying home was our biggest mistake. But now when looking back, I feel we were lucky to buy at that time considering how expensive home is right now. Looking forward, we think we might plan to sell our current house during our retirement years and purchase property in other states to avoid California high living expense. Also, many of my friends often ask my advice about buying houses. This is the reason to inspire me to investigate the US housing data to find the insight to help me and others to make the right decision.
+We bought our primary home in November 2007 in San Jose. The next year the housing crisis spread cross US cities and many people’s homes went to foreclosure. Our home value also went down 30% and we felt buying home was our biggest mistake. But now when looking back, I feel we were lucky to buy at that time considering how expensive home is right now. Looking forward, we think we might plan to sell our current house during our retirement years and purchase a property in other states to avoid California high living expense. Also, many of my friends often ask my advice about buying houses. This is the reason to inspire me to investigate the US housing data to find the insight to help me and others to make the right decision.
 
 **Libraries**
 
